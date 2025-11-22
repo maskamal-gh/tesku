@@ -1,1 +1,15 @@
+#EXTINF:-1 group-title="" tvg-id="",CNA
+https://cdn10jtedge.indihometv.com/atm/DASH/newsasia/manifest.mpd
+
+#EXTINF:-1 group-title="" tvg-id="",CNA2
+https://cdn10jtedge.indihometv.com/atm/DASH/newsasia/manifest.mpd
+
+#EXTINF:-1 group-title="" tvg-id="",Bloomberg
+https://cdn10jtedge.indihometv.com/atm/DASH/BLOOMBERG_AT/manifest.mpd
+
+#EXTINF:-1 group-title="" tvg-id="",trans7 (error)
+https://cdn10jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd
+
+#EXTINF:-1 group-title="" tvg-id="",Sinpo
+https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 
