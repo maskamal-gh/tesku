@@ -2,6 +2,9 @@
 #EXTINF:-1 group-title="" tvg-id="",hits movie (dash)
 https://cdn10jtedge.indihometv.com/atm/DASH/hitsmovie/manifest.mpd
 
+#EXTINF:-1 group-title="" tvg-id="",hits movie (dasdvr)
+https://cdn08jtedge.indihometv.com/dassdvr/130/hitsmovie/manifest.mpd
+
 #EXTINF:-1 group-title="" tvg-id="",hbo
 https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 
